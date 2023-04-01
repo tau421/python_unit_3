@@ -4,6 +4,6 @@
 }
 
 #melon-list {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
 }
